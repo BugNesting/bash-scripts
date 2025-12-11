@@ -5,13 +5,13 @@ Todos os scripts estão **comentados** e organizados para facilitar entendimento
 
 ## Scripts incluídos
 
-### 🔹 `localpingsweeper.sh`
+### 🔹 [`localpingsweeper.sh`](https://github.com/BugNesting/bash-scripts/blob/main/localpingsweeper.sh)
 Realiza um ping sweep em uma rede /24 e lista hosts online.
 
-### 🔹 `portknocking.sh`
+### 🔹 [`portknocking.sh`](https://github.com/BugNesting/bash-scripts/blob/main/portknocking.sh)
 Envia uma sequência de knocks TCP usando `hping3` para testar mecanismos de Port Knocking.
 
-### 🔹 `synscan4test.sh`
+### 🔹 [`synscan4test.sh`](https://github.com/BugNesting/bash-scripts/blob/main/synscan4test.sh)
 Scanner básico de portas TCP utilizando SYN packets (método SYN scan) via `hping3`. Esse aqui preciso dar uma mexida firewall server-side ta dropando os pacotes
 
 ## Aviso

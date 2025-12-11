@@ -12,7 +12,7 @@ Realiza um ping sweep em uma rede /24 e lista hosts online.
 Envia uma sequência de knocks TCP usando `hping3` para testar mecanismos de Port Knocking.
 
 ### 🔹 `synscan4test.sh`
-Scanner básico de portas TCP utilizando SYN packets (método SYN scan) via `hping3`.
+Scanner básico de portas TCP utilizando SYN packets (método SYN scan) via `hping3`. Esse aqui preciso dar uma mexida firewall server-side ta dropando os pacotes
 
 ## Aviso
 Estes scripts são destinados **somente para uso educacional** e para testes em ambientes onde você possui autorização.  
